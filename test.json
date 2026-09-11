@@ -1,7 +1,7 @@
 {
-  "versionCode": 59,
-  "versionName": "0.8.32",
-  "apkUrl": "https://raw.githubusercontent.com/Probnik67/StudyNotesSFU-Updates/main/apk/StudyNotesSFU-v0.8.32-release.apk",
-  "notes": "Тестовая версия StudyNotesSFU 0.8.32. Встроенные обновления, owner-only Test и устойчивое расписание.",
+  "versionCode": 60,
+  "versionName": "0.8.33",
+  "apkUrl": "https://raw.githubusercontent.com/Probnik67/StudyNotesSFU-Updates/main/apk/StudyNotesSFU-v0.8.33-release.apk",
+  "notes": "Тестовая версия StudyNotesSFU 0.8.33. Встроенные обновления, owner-only Test и устойчивое расписание.",
   "required": false
 }
