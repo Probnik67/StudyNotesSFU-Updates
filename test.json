@@ -1,7 +1,7 @@
 {
-  "versionCode": 50,
-  "versionName": "0.8.23",
+  "versionCode": 51,
+  "versionName": "0.8.24",
   "apkUrl": "https://raw.githubusercontent.com/Probnik67/StudyNotesSFU-Updates/main/apk/StudyNotesSFU-test-latest.apk",
-  "notes": "Тестовая версия StudyNotesSFU 0.8.23. Проверь обновление перед публикацией в Stable.",
+  "notes": "Тестовая версия StudyNotesSFU 0.8.24. Проверь обновление перед публикацией в Stable.",
   "required": false
 }
